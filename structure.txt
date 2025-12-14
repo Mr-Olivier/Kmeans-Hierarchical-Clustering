@@ -1,0 +1,42 @@
+D:.
+│   Group_Members.txt
+│   OUTPUTS_SCREENSHOOTS.docx
+│   structure.txt
+│
+├───ASSIGNMENT_OF_AI
+│   │   Group_Members.txt
+│   │   OUTPUTS_SCREENSHOOTS.docx
+│   │
+│   ├───hierarchical_clustering
+│   │   │   hierarchical_main.py
+│   │   │   HIERARCHICAL_README.md
+│   │   │   hierarchical_requirements.txt
+│   │   │
+│   │   └───__pycache__
+│   │           hierarchical.cpython-313.pyc
+│   │
+│   └───kmeans_clustering
+│       │   kmeans.py
+│       │   README.md
+│       │   requirements.txt
+│       │
+│       └───__pycache__
+│               kmeans.cpython-313.pyc
+│               visualize.cpython-313.pyc
+│
+├───hierarchical_clustering
+│   │   hierarchical_main.py
+│   │   HIERARCHICAL_README.md
+│   │   hierarchical_requirements.txt
+│   │
+│   └───__pycache__
+│           hierarchical.cpython-313.pyc
+│
+└───kmeans_clustering
+    │   kmeans.py
+    │   README.md
+    │   requirements.txt
+    │
+    └───__pycache__
+            kmeans.cpython-313.pyc
+            visualize.cpython-313.pyc
